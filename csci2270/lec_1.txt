@@ -1,0 +1,25 @@
+Abstraction:
+- Focuses on what as apposed to how
+- separate logical properties form implementaiton details
+
+EX:
+- Driving = logical property
+- construction of engine = implementaiton
+- 
+
+Abstract data type = A collection of data emelents and the allowable operations  on those elements
+ex: 
+clockType
+    setTime()
+    returnTime()
+    printTime()
+
+Data Structure:
+    -an abstract representation of problem data for computational problem solving
+    -A way to store data
+
+
+Abstract data type example:
+    - Vehicle
+        -car, boat, train
+

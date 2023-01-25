@@ -1,0 +1,14 @@
+String stream
+
+use <sstream> header
+
+methods:
+    -str() gets and sets the string object's content to string
+    -clear()
+    -<<
+    ->>
+
+Structures
+    - a collection of related data types
+    - can be composed of different data types
+    
